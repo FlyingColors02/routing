@@ -4,9 +4,9 @@ class App extends Component{
     render(){
         return(
             <React.Fragment>
-                <Switch>
-                <Route/>
-                </Switch>
+                <div className="container">
+                    <h1>app section</h1>
+                </div>
             </React.Fragment>
             
         )
